@@ -1,5 +1,5 @@
 import React from "react"
-import "/src/assets/undraw_about_me_re_82bv.svg"
+import "/assets/undraw_about_me_re_82bv.svg"
 
 function Bout() {
     return (
@@ -22,7 +22,7 @@ function Bout() {
         </p>
         </div>
         <img 
-            src="/src/assets/undraw_about_me_re_82bv.svg" 
+            src="/assets/undraw_about_me_re_82bv.svg" 
             alt="about me img" 
             className="h-96"/>
     </div>

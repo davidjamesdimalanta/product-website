@@ -1,9 +1,5 @@
 import React from "react";
-import "/src/assets/university SVGs/Centennial_College_logo.svg"
-import "/src/assets/university SVGs/Durham_College_logo.svg"
-import "/src/assets/university SVGs/Logo_York_University.svg"
-import "/src/assets/university SVGs/George_Brown_College_logo.svg"
-import "/src/assets/university SVGs/Seneca_College_logo.svg"
+import "/assets/university SVGs/Schools.svg"
 
 
 function Schools() {
@@ -13,7 +9,7 @@ function Schools() {
             <h1 className="text-3xl font-Poppins pt-3">
                 In Partnership With
                 </h1>
-            <img src="/src/assets/university SVGs/Schools.svg" alt="" 
+            <img src="/assets/university SVGs/Schools.svg" alt="" 
                 className="w-full"/>
         </div>
     )

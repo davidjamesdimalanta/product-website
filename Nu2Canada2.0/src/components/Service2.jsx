@@ -1,13 +1,12 @@
 import React from "react";
-import "/src/assets/undraw_interview_re_e5jn.svg"
+import "/assets/undraw_interview_re_e5jn.svg"
 import 'animate.css'
-import { Link, Outlet } from "react-router-dom";
 function Service2() {
     return (
         <div className="bg-white w-full max-h-full rounded-3xl flex justify-start items-center intersect:animate-fadeIn intersect-once h-auto">
             <div className="container flex flex-col md:flex-row md:px-10 md:py-8 md:justify-center items-center h-auto">
             <img 
-                src="/src/assets/undraw_interview_re_e5jn.svg" 
+                src="/assets/undraw_interview_re_e5jn.svg" 
                 alt="svg"
                 className="h-auto w-96 py-10 sm:block" />
                 <div className="px-4 sm:pl-8 md:pl-8 lg:pl-32 py-2">

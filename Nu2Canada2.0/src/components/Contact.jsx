@@ -1,5 +1,5 @@
 import React from "react"
-import "/src/assets/undraw_contact_us_re_4qqt.svg"
+import "/assets/undraw_contact_us_re_4qqt.svg"
 function Contact() {
     return (
         <div className="bg-stone-900 scroll-smooth">
@@ -46,7 +46,7 @@ function Contact() {
                     </button>
                 </form>
                 <img 
-                    src="/src/assets/undraw_contact_us_re_4qqt.svg" 
+                    src="/assets/undraw_contact_us_re_4qqt.svg" 
                     alt="Contact Img"
                     className="w-full md:w-6/12 px-8 py-6 hidden md:block" />
                </div>

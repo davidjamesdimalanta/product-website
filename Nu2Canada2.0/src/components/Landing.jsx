@@ -1,5 +1,5 @@
 import React from "react"
-import "/src/assets/toronto.svg"
+import "/assets/toronto.svg"
 import 'animate.css'
 
 function Landing() {
@@ -22,7 +22,7 @@ function Landing() {
                 </div>
             <div className="animate__animated animate__fadeInRight animate__delay-1s">
             <img 
-                src="/src/assets/toronto.svg" 
+                src="/assets/toronto.svg" 
                 alt="svg"
                 className="w-96 md:w-auto md:py-10 sm:block" />
             </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import "/src/assets/undraw_education_f8ru.svg"
+import "/assets/undraw_education_f8ru.svg"
 import 'animate.css'
 
 function Service3() {
@@ -17,7 +17,7 @@ function Service3() {
                 </div>
             <div>
             <img 
-                src="/src/assets/undraw_education_f8ru.svg" 
+                src="/assets/undraw_education_f8ru.svg" 
                 alt="svg"
                 className="h-auto w-96 sm:w-96 md:w-auto lg:w-auto py-10 sm:block" />
             </div>
