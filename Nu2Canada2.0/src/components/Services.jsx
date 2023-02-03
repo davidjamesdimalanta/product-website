@@ -5,13 +5,13 @@ import 'animate.css'
 
 function Services() {
     return (
-        <div className="flex flex-col gap-2 sm:flex-col md:flex-row intersect:animate-fadeIn intersect-once">
+        <div className="flex flex-col gap-3 sm:flex-col md:flex-row intersect:animate-fadeIn intersect-once">
          {service.map(service => (
           <ServiceCard
             title={service.title}
             desc={service.desc}
             imgUrl={service.imgUrl}
-            link={service.link}
+            bb5b={service.bb5b}
           />
         ))}
       </div>

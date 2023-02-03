@@ -4,8 +4,8 @@ import 'animate.css'
 
 function Landing() {
     return (
-        <div className="bg-white w-full h-screen sm:h-11/12 rounded-3xl flex justify-start items-center">
-            <div className="container flex flex-col md:flex-row md:px-10 md:py-8 md:justify-center items-center">
+        <div className="bg-white w-full md:h-screen h-11/12 rounded-3xl flex justify-start items-center">
+            <div className="container flex flex-col px-4 py-6 md:flex-row md:px-10 md:py-8 md:justify-center items-center rounded-3xl">
                 <div className="px-4 py-2 animate__animated animate__fadeInLeft w-fit">
                 <h1 className="text-5xl md:text-7xl font-Poppins font-bold md:pt-4 md:pb-2">
                     Opportunity Awaits</h1>

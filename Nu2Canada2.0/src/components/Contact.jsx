@@ -2,9 +2,9 @@ import React from "react"
 import "/assets/undraw_contact_us_re_4qqt.svg"
 function Contact() {
     return (
-        <div className="bg-stone-900 scroll-smooth">
+        <div className="scroll-smooth">
             <div className='pt-2 pb-3'>
-            <div className="bg-white w-full h-screen rounded-3xl flex justify-center items-center pt-2">
+            <div className="bg-white w-full h-screen rounded-3xl flex justify-center items-center pt-2 shadow-xl">
                <div className="container flex flex-col md:flex-row max-h-screen px-5">
                 <form 
                     action="https://getform.io/f/a97867aa-887e-46c1-ba12-60774fc5f51e" 

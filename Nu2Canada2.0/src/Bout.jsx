@@ -3,9 +3,9 @@ import "/assets/undraw_about_me_re_82bv.svg"
 
 function Bout() {
     return (
-        <div className="bg-stone-900 scroll-smooth">
-        <div className="pt-2 pb-3">
-        <div className="bg-white w-full h-auto rounded-3xl flex flex-col md:flex-row justify-start items-center p-10">
+        <div className="scroll-smooth">
+        <div className="pt-2 pb-3 h-screen">
+        <div className="bg-white w-full rounded-3xl flex flex-col md:flex-row justify-start items-center p-10 shadow-xl">
        <div className="container flex flex-col justify-start items-start">
          <h1 className="text-5xl md:text-7xl font-Poppins font-bold md:pt-4 md:pb-2">
             About Us

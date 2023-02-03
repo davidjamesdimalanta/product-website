@@ -5,8 +5,8 @@ import 'animate.css'
 function Service3() {
     return (
         <div className="bg-white w-full max-h-full rounded-3xl flex justify-start items-center intersect:animate-fadeIn intersect-once">
-            <div className="container flex flex-col md:flex-row md:px-10 md:py-8 md:justify-center items-center">
-                <div className="px-4 sm:pl-8 md:pl-8 lg:pl-32 py-2">
+            <div className="container px-4 flex flex-col md:flex-row md:px-10 md:py-8 md:justify-center items-center">
+                <div className="px-4 sm:pl-8 md:pl-8 py-2">
                 <h1 className="text-3xl md:text-5xl lg:text-5xl font-Poppins font-semibold pt-6 md:pt-0">
                     Enrollment & Transfer Service</h1>
                 <p className=" w-auto font-NotoSansLaoLooped">

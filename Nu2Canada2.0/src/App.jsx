@@ -6,22 +6,21 @@ import Service3 from './components/Service3'
 import Schools from './components/Schools'
 
 function App() {
-
   return (
-   <div className='bg-stone-900 scroll-smooth'>
-    <div className='pt-2'>
+   <div className='scroll-smooth relative'>
+    <div className='pt-3 shadow-xl rounded-3xl relative'>
     <Landing/>
     </div>
-    <div className='pt-2'>
+    <div className='pt-3 shadow-xl rounded-3xl relative'>
     <Schools />
     </div>
-    <div className='pt-2'>
+    <div className='pt-3 shadow-xl rounded-3xl relative'>
     <Service2/>
     </div>
-    <div className='pt-2'>
+    <div className='pt-3 shadow-xl rounded-3xl relative'>
     <Service3/>
     </div>
-    <div className='pt-2 pb-3'>
+    <div className='pt-3 pb-3 rounded-3xl relative'>
     <Services/>
     </div>
    </div>

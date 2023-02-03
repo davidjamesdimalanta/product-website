@@ -10,7 +10,7 @@ function Schools() {
                 In Partnership With
                 </h1>
             <img src="/assets/university SVGs/Schools.svg" alt="" 
-                className="w-full"/>
+                className="w-full rounded-3xl"/>
         </div>
     )
 }
